@@ -1,3 +1,4 @@
+import useColorMode from 'hooks/useColorMode';
 import { getPosts } from 'services/posts.api';
 
 const postHTML = (post: any) => `

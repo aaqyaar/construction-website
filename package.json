@@ -1,5 +1,15 @@
 {
-  "name": "wp-website",
+  "name": "construction-website",
+  "description": "Construction Website that is built on Top of React and Wordpress",
+  "author": {
+    "email": "abdizamedmo@gmail.com",
+    "name": "Abdi Zamed Mohamed",
+    "url": "https://abdizamedmo.netlify.app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaqyaar/construction-website.git"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
